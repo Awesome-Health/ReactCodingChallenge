@@ -56,6 +56,7 @@ Also, add the following info to your `README`:
 You will be using the [MealDB API](https://www.themealdb.com/api.php) to fetch the recipes.
 
 All recipes can be fetched by using `https://www.themealdb.com/api/json/v1/1/search.php?s=query` where query is the recipe search key from the user input.
+You can use just the first ingredient as reference, no need to build a functionality to map and display all ingredients.
 
 Please create components for each part of the page (eg. header, content, footer, etc).
 Some assets that might be needed are provided in the `assets` folder.
